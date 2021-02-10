@@ -1,0 +1,2366 @@
+{
+    "rooms": [
+        {
+            "id": 0,
+            "title": "Officiis corporis voluptates porro ea.",
+            "capacity": 6,
+            "price": "¥9330",
+            "dateStart": "2021-02-08T12:36:10.982Z",
+            "dateEnd": "2021-04-23T06:54:18.881Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 2,
+                "name": "青森県"
+            },
+            "features": [
+                "キッチン",
+                "Wi-Fi",
+                "エアコン",
+                "ジム",
+                "洗濯機",
+                "乾燥機",
+                "駐車場",
+                "ペットOK",
+                "喫煙OK"
+            ],
+            "rate": 2
+        },
+        {
+            "id": 1,
+            "title": "Occaecati aperiam aut laudantium tempora eveniet id sunt.",
+            "capacity": 7,
+            "price": "¥9198",
+            "dateStart": "2021-02-09T02:31:21.848Z",
+            "dateEnd": "2021-11-19T12:49:55.722Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 26,
+                "name": "京都府"
+            },
+            "features": [
+                "乾燥機"
+            ],
+            "rate": 0
+        },
+        {
+            "id": 2,
+            "title": "Ad natus minus.",
+            "capacity": 7,
+            "price": "¥2490",
+            "dateStart": "2021-02-08T16:34:12.315Z",
+            "dateEnd": "2021-06-03T17:07:27.784Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 16,
+                "name": "富山県"
+            },
+            "features": [
+                "キッチン",
+                "ジム",
+                "TV",
+                "駐車場",
+                "ペットOK",
+                "喫煙OK"
+            ],
+            "rate": 3
+        },
+        {
+            "id": 3,
+            "title": "Est eligendi aliquam est itaque dignissimos magni.",
+            "capacity": 10,
+            "price": "¥3998",
+            "dateStart": "2021-02-08T09:57:35.551Z",
+            "dateEnd": "2021-04-26T01:04:12.212Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 47,
+                "name": "沖縄県"
+            },
+            "features": [
+                "キッチン",
+                "ジム",
+                "プール"
+            ],
+            "rate": 0
+        },
+        {
+            "id": 4,
+            "title": "Pariatur distinctio quidem sint.",
+            "capacity": 9,
+            "price": "¥9464",
+            "dateStart": "2021-02-09T00:21:33.164Z",
+            "dateEnd": "2021-12-28T13:19:04.435Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 38,
+                "name": "愛媛県"
+            },
+            "features": [
+                "Wi-Fi",
+                "エアコン",
+                "ジム",
+                "プール",
+                "TV",
+                "洗濯機",
+                "乾燥機",
+                "駐車場",
+                "ペットOK",
+                "喫煙OK"
+            ],
+            "rate": 3
+        },
+        {
+            "id": 5,
+            "title": "Dicta dolore quasi nobis.",
+            "capacity": 6,
+            "price": "¥6707",
+            "dateStart": "2021-02-09T01:57:01.597Z",
+            "dateEnd": "2021-09-28T08:04:59.168Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 26,
+                "name": "京都府"
+            },
+            "features": [
+                "キッチン",
+                "Wi-Fi",
+                "エアコン",
+                "ジム",
+                "プール",
+                "TV",
+                "洗濯機",
+                "乾燥機",
+                "駐車場",
+                "ペットOK"
+            ],
+            "rate": 2
+        },
+        {
+            "id": 6,
+            "title": "Perspiciatis eos totam repudiandae laudantium voluptatem accusantium omnis.",
+            "capacity": 6,
+            "price": "¥3122",
+            "dateStart": "2021-02-09T04:04:00.298Z",
+            "dateEnd": "2021-10-27T07:34:43.255Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 19,
+                "name": "山梨県"
+            },
+            "features": [
+                "洗濯機"
+            ],
+            "rate": 5
+        },
+        {
+            "id": 7,
+            "title": "Quaerat veniam est earum et consequuntur aut ea.",
+            "capacity": 9,
+            "price": "¥4658",
+            "dateStart": "2021-02-09T07:57:52.176Z",
+            "dateEnd": "2021-07-05T20:51:52.099Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 23,
+                "name": "愛知県"
+            },
+            "features": [
+                "キッチン",
+                "ジム",
+                "TV",
+                "洗濯機",
+                "乾燥機",
+                "駐車場",
+                "ペットOK",
+                "喫煙OK"
+            ],
+            "rate": 3
+        },
+        {
+            "id": 8,
+            "title": "Nam maxime error quaerat dignissimos quas aut autem sunt.",
+            "capacity": 4,
+            "price": "¥4832",
+            "dateStart": "2021-02-08T19:01:37.839Z",
+            "dateEnd": "2021-10-18T02:18:46.044Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 23,
+                "name": "愛知県"
+            },
+            "features": [
+                "ジム",
+                "プール",
+                "TV",
+                "洗濯機",
+                "駐車場",
+                "ペットOK",
+                "喫煙OK"
+            ],
+            "rate": 4
+        },
+        {
+            "id": 9,
+            "title": "Voluptatem quibusdam error at.",
+            "capacity": 1,
+            "price": "¥3336",
+            "dateStart": "2021-02-08T18:14:22.284Z",
+            "dateEnd": "2021-07-14T08:41:36.842Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 44,
+                "name": "大分県"
+            },
+            "features": [
+                "エアコン",
+                "駐車場",
+                "喫煙OK"
+            ],
+            "rate": 2
+        },
+        {
+            "id": 10,
+            "title": "Commodi culpa a voluptates.",
+            "capacity": 3,
+            "price": "¥4352",
+            "dateStart": "2021-02-08T10:54:46.801Z",
+            "dateEnd": "2021-11-05T09:34:54.471Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 28,
+                "name": "兵庫県"
+            },
+            "features": [
+                "プール",
+                "洗濯機"
+            ],
+            "rate": 0
+        },
+        {
+            "id": 11,
+            "title": "Ipsum expedita reiciendis beatae repellat aperiam et quisquam.",
+            "capacity": 2,
+            "price": "¥6728",
+            "dateStart": "2021-02-08T13:37:17.410Z",
+            "dateEnd": "2021-05-03T13:04:52.638Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 7,
+                "name": "福島県"
+            },
+            "features": [
+                "キッチン",
+                "Wi-Fi",
+                "ジム",
+                "洗濯機",
+                "乾燥機",
+                "ペットOK",
+                "喫煙OK"
+            ],
+            "rate": 5
+        },
+        {
+            "id": 12,
+            "title": "Cumque minus et rerum sapiente qui.",
+            "capacity": 3,
+            "price": "¥9056",
+            "dateStart": "2021-02-09T08:57:01.968Z",
+            "dateEnd": "2021-12-30T04:19:16.850Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 40,
+                "name": "福岡県"
+            },
+            "features": [
+                "洗濯機",
+                "駐車場",
+                "喫煙OK"
+            ],
+            "rate": 2
+        },
+        {
+            "id": 13,
+            "title": "Et velit corporis quam molestiae veritatis occaecati dolorem eius.",
+            "capacity": 6,
+            "price": "¥1965",
+            "dateStart": "2021-02-09T09:05:50.480Z",
+            "dateEnd": "2021-03-31T07:15:09.240Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 36,
+                "name": "徳島県"
+            },
+            "features": [
+                "キッチン",
+                "ジム",
+                "TV",
+                "洗濯機",
+                "乾燥機",
+                "喫煙OK"
+            ],
+            "rate": 0
+        },
+        {
+            "id": 14,
+            "title": "Ut quam est voluptas et ea qui tenetur dolor.",
+            "capacity": 7,
+            "price": "¥8605",
+            "dateStart": "2021-02-08T21:15:29.315Z",
+            "dateEnd": "2022-01-11T01:00:40.699Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 8,
+                "name": "茨城県"
+            },
+            "features": [
+                "キッチン",
+                "Wi-Fi",
+                "TV",
+                "駐車場"
+            ],
+            "rate": 4
+        },
+        {
+            "id": 15,
+            "title": "Dolore iste sit doloribus omnis.",
+            "capacity": 10,
+            "price": "¥7228",
+            "dateStart": "2021-02-08T09:51:47.133Z",
+            "dateEnd": "2021-12-17T03:00:47.229Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 1,
+                "name": "北海道"
+            },
+            "features": [
+                "Wi-Fi",
+                "ジム",
+                "洗濯機",
+                "乾燥機"
+            ],
+            "rate": 4
+        },
+        {
+            "id": 16,
+            "title": "Id nihil consequatur nemo autem quidem accusamus ipsum debitis et.",
+            "capacity": 5,
+            "price": "¥7531",
+            "dateStart": "2021-02-08T22:32:25.584Z",
+            "dateEnd": "2021-02-22T16:21:08.286Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 26,
+                "name": "京都府"
+            },
+            "features": [
+                "キッチン",
+                "Wi-Fi",
+                "ジム",
+                "プール",
+                "乾燥機",
+                "ペットOK",
+                "喫煙OK"
+            ],
+            "rate": 4
+        },
+        {
+            "id": 17,
+            "title": "Blanditiis nobis tenetur.",
+            "capacity": 0,
+            "price": "¥6711",
+            "dateStart": "2021-02-08T18:10:33.994Z",
+            "dateEnd": "2021-04-25T02:08:51.898Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 36,
+                "name": "徳島県"
+            },
+            "features": [
+                "キッチン",
+                "乾燥機",
+                "駐車場",
+                "ペットOK"
+            ],
+            "rate": 5
+        },
+        {
+            "id": 18,
+            "title": "Velit sit ab et officia cumque voluptate ut voluptatem exercitationem.",
+            "capacity": 5,
+            "price": "¥9958",
+            "dateStart": "2021-02-08T20:50:13.289Z",
+            "dateEnd": "2022-01-22T18:41:47.640Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 6,
+                "name": "山形県"
+            },
+            "features": [
+                "ジム",
+                "乾燥機"
+            ],
+            "rate": 2
+        },
+        {
+            "id": 19,
+            "title": "Qui qui officiis assumenda consectetur modi quis adipisci cum.",
+            "capacity": 10,
+            "price": "¥1886",
+            "dateStart": "2021-02-09T05:19:05.473Z",
+            "dateEnd": "2021-06-20T16:12:14.159Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 34,
+                "name": "広島県"
+            },
+            "features": [
+                "キッチン",
+                "Wi-Fi",
+                "ジム",
+                "TV",
+                "乾燥機",
+                "駐車場",
+                "ペットOK"
+            ],
+            "rate": 0
+        },
+        {
+            "id": 20,
+            "title": "Rem laborum laboriosam illum laudantium explicabo.",
+            "capacity": 5,
+            "price": "¥3448",
+            "dateStart": "2021-02-08T21:50:33.844Z",
+            "dateEnd": "2021-05-26T09:56:31.332Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 34,
+                "name": "広島県"
+            },
+            "features": [
+                "ジム",
+                "洗濯機",
+                "喫煙OK"
+            ],
+            "rate": 1
+        },
+        {
+            "id": 21,
+            "title": "Corrupti rerum beatae autem nulla qui est ut dolor voluptate.",
+            "capacity": 1,
+            "price": "¥7287",
+            "dateStart": "2021-02-08T17:50:34.414Z",
+            "dateEnd": "2021-07-09T04:35:32.488Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 10,
+                "name": "群馬県"
+            },
+            "features": [
+                "Wi-Fi",
+                "乾燥機",
+                "駐車場",
+                "ペットOK"
+            ],
+            "rate": 4
+        },
+        {
+            "id": 22,
+            "title": "Asperiores dolorum vel cum.",
+            "capacity": 0,
+            "price": "¥7514",
+            "dateStart": "2021-02-08T14:41:05.373Z",
+            "dateEnd": "2021-05-25T18:56:23.456Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 25,
+                "name": "滋賀県"
+            },
+            "features": [
+                "キッチン",
+                "エアコン",
+                "ジム",
+                "プール",
+                "TV",
+                "洗濯機",
+                "駐車場",
+                "ペットOK",
+                "喫煙OK"
+            ],
+            "rate": 3
+        },
+        {
+            "id": 23,
+            "title": "Occaecati cumque amet occaecati est in explicabo libero quae.",
+            "capacity": 1,
+            "price": "¥1484",
+            "dateStart": "2021-02-09T07:49:42.927Z",
+            "dateEnd": "2022-01-08T19:17:54.189Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 2,
+                "name": "青森県"
+            },
+            "features": [
+                "キッチン",
+                "エアコン",
+                "ジム",
+                "プール",
+                "洗濯機",
+                "乾燥機",
+                "駐車場",
+                "ペットOK",
+                "喫煙OK"
+            ],
+            "rate": 4
+        },
+        {
+            "id": 24,
+            "title": "Facere et vitae vero maxime modi.",
+            "capacity": 8,
+            "price": "¥3012",
+            "dateStart": "2021-02-08T16:35:50.102Z",
+            "dateEnd": "2021-06-25T18:15:03.005Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 38,
+                "name": "愛媛県"
+            },
+            "features": [
+                "キッチン",
+                "Wi-Fi",
+                "TV",
+                "洗濯機",
+                "乾燥機",
+                "駐車場",
+                "ペットOK",
+                "喫煙OK"
+            ],
+            "rate": 2
+        },
+        {
+            "id": 25,
+            "title": "Asperiores facere ex ea natus quo consequatur at quae incidunt.",
+            "capacity": 1,
+            "price": "¥4404",
+            "dateStart": "2021-02-08T15:37:21.875Z",
+            "dateEnd": "2021-12-13T07:38:26.236Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 33,
+                "name": "岡山県"
+            },
+            "features": [
+                "キッチン",
+                "Wi-Fi",
+                "ジム",
+                "プール",
+                "洗濯機",
+                "乾燥機",
+                "駐車場",
+                "ペットOK",
+                "喫煙OK"
+            ],
+            "rate": 0
+        },
+        {
+            "id": 26,
+            "title": "Non aut voluptatem exercitationem a reiciendis et qui occaecati.",
+            "capacity": 8,
+            "price": "¥1033",
+            "dateStart": "2021-02-09T01:16:56.267Z",
+            "dateEnd": "2021-03-12T12:40:08.799Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 1,
+                "name": "北海道"
+            },
+            "features": [
+                "Wi-Fi",
+                "ジム",
+                "プール",
+                "喫煙OK"
+            ],
+            "rate": 4
+        },
+        {
+            "id": 27,
+            "title": "Molestiae cumque est.",
+            "capacity": 4,
+            "price": "¥9181",
+            "dateStart": "2021-02-08T17:37:57.305Z",
+            "dateEnd": "2021-12-28T21:53:54.458Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 37,
+                "name": "香川県"
+            },
+            "features": [
+                "キッチン",
+                "Wi-Fi",
+                "エアコン",
+                "ジム",
+                "プール",
+                "TV",
+                "洗濯機",
+                "乾燥機",
+                "駐車場",
+                "ペットOK",
+                "喫煙OK"
+            ],
+            "rate": 2
+        },
+        {
+            "id": 28,
+            "title": "Non reprehenderit officiis fuga minima nihil voluptatibus et.",
+            "capacity": 9,
+            "price": "¥3350",
+            "dateStart": "2021-02-08T13:10:58.445Z",
+            "dateEnd": "2021-09-16T16:10:50.936Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 1,
+                "name": "北海道"
+            },
+            "features": [
+                "キッチン",
+                "Wi-Fi",
+                "エアコン",
+                "プール",
+                "TV",
+                "洗濯機",
+                "乾燥機",
+                "駐車場",
+                "ペットOK",
+                "喫煙OK"
+            ],
+            "rate": 3
+        },
+        {
+            "id": 29,
+            "title": "Temporibus a omnis.",
+            "capacity": 5,
+            "price": "¥6896",
+            "dateStart": "2021-02-08T16:48:33.212Z",
+            "dateEnd": "2021-04-01T12:24:17.027Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 16,
+                "name": "富山県"
+            },
+            "features": [
+                "エアコン",
+                "ジム",
+                "プール",
+                "TV",
+                "洗濯機",
+                "ペットOK",
+                "喫煙OK"
+            ],
+            "rate": 0
+        },
+        {
+            "id": 30,
+            "title": "Corrupti rem dolor sunt velit quaerat sit ut numquam nihil.",
+            "capacity": 10,
+            "price": "¥9010",
+            "dateStart": "2021-02-08T12:28:30.788Z",
+            "dateEnd": "2021-12-24T14:45:15.728Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 9,
+                "name": "栃木県"
+            },
+            "features": [
+                "洗濯機",
+                "乾燥機",
+                "駐車場"
+            ],
+            "rate": 0
+        },
+        {
+            "id": 31,
+            "title": "Voluptatem accusamus consequatur asperiores voluptas.",
+            "capacity": 5,
+            "price": "¥5817",
+            "dateStart": "2021-02-08T12:11:35.316Z",
+            "dateEnd": "2021-05-28T10:30:05.884Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 15,
+                "name": "新潟県"
+            },
+            "features": [
+                "Wi-Fi",
+                "エアコン",
+                "乾燥機",
+                "駐車場",
+                "ペットOK",
+                "喫煙OK"
+            ],
+            "rate": 5
+        },
+        {
+            "id": 32,
+            "title": "Optio ut qui consequatur expedita totam numquam repellat neque id.",
+            "capacity": 3,
+            "price": "¥1576",
+            "dateStart": "2021-02-09T07:50:20.123Z",
+            "dateEnd": "2021-07-13T11:50:17.097Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 21,
+                "name": "岐阜県"
+            },
+            "features": [
+                "Wi-Fi",
+                "ジム",
+                "プール",
+                "乾燥機",
+                "駐車場",
+                "ペットOK"
+            ],
+            "rate": 5
+        },
+        {
+            "id": 33,
+            "title": "Nobis illum illo ut vitae.",
+            "capacity": 8,
+            "price": "¥4836",
+            "dateStart": "2021-02-09T07:12:09.055Z",
+            "dateEnd": "2021-10-19T11:52:46.122Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 13,
+                "name": "東京都"
+            },
+            "features": [
+                "Wi-Fi"
+            ],
+            "rate": 5
+        },
+        {
+            "id": 34,
+            "title": "Laborum quas laboriosam et repudiandae sint reiciendis et iure qui.",
+            "capacity": 7,
+            "price": "¥2782",
+            "dateStart": "2021-02-08T11:58:38.649Z",
+            "dateEnd": "2021-09-11T12:52:59.457Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 9,
+                "name": "栃木県"
+            },
+            "features": [
+                "キッチン",
+                "Wi-Fi",
+                "ジム",
+                "TV",
+                "乾燥機",
+                "駐車場",
+                "ペットOK",
+                "喫煙OK"
+            ],
+            "rate": 4
+        },
+        {
+            "id": 35,
+            "title": "Quasi delectus rerum.",
+            "capacity": 10,
+            "price": "¥5632",
+            "dateStart": "2021-02-08T18:37:36.818Z",
+            "dateEnd": "2021-12-17T16:33:42.850Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 21,
+                "name": "岐阜県"
+            },
+            "features": [
+                "エアコン",
+                "洗濯機",
+                "乾燥機",
+                "駐車場"
+            ],
+            "rate": 0
+        },
+        {
+            "id": 36,
+            "title": "Doloremque deserunt enim neque.",
+            "capacity": 7,
+            "price": "¥4833",
+            "dateStart": "2021-02-09T04:42:56.286Z",
+            "dateEnd": "2021-05-27T15:54:36.924Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 21,
+                "name": "岐阜県"
+            },
+            "features": [
+                "エアコン",
+                "ジム",
+                "プール",
+                "洗濯機",
+                "乾燥機",
+                "ペットOK",
+                "喫煙OK"
+            ],
+            "rate": 2
+        },
+        {
+            "id": 37,
+            "title": "In iusto enim eius.",
+            "capacity": 7,
+            "price": "¥1115",
+            "dateStart": "2021-02-09T08:10:58.237Z",
+            "dateEnd": "2021-04-11T13:43:18.399Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 38,
+                "name": "愛媛県"
+            },
+            "features": [
+                "キッチン",
+                "ジム",
+                "プール",
+                "洗濯機",
+                "乾燥機",
+                "喫煙OK"
+            ],
+            "rate": 5
+        },
+        {
+            "id": 38,
+            "title": "Aut officiis modi voluptatibus est voluptatem.",
+            "capacity": 9,
+            "price": "¥9795",
+            "dateStart": "2021-02-08T22:56:43.883Z",
+            "dateEnd": "2021-03-05T19:38:05.531Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 22,
+                "name": "静岡県"
+            },
+            "features": [
+                "キッチン",
+                "エアコン",
+                "ジム",
+                "プール",
+                "駐車場"
+            ],
+            "rate": 5
+        },
+        {
+            "id": 39,
+            "title": "Assumenda sint perferendis aut quia rem voluptatem sed nobis ipsum.",
+            "capacity": 1,
+            "price": "¥6392",
+            "dateStart": "2021-02-08T10:31:38.023Z",
+            "dateEnd": "2021-12-12T21:21:53.449Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 16,
+                "name": "富山県"
+            },
+            "features": [
+                "エアコン",
+                "プール",
+                "TV",
+                "洗濯機",
+                "乾燥機",
+                "駐車場",
+                "ペットOK",
+                "喫煙OK"
+            ],
+            "rate": 0
+        },
+        {
+            "id": 40,
+            "title": "Non architecto rem velit hic nisi temporibus eum sequi.",
+            "capacity": 9,
+            "price": "¥3880",
+            "dateStart": "2021-02-08T22:35:58.332Z",
+            "dateEnd": "2021-04-26T02:37:15.956Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 29,
+                "name": "奈良県"
+            },
+            "features": [
+                "プール",
+                "喫煙OK"
+            ],
+            "rate": 2
+        },
+        {
+            "id": 41,
+            "title": "Magni omnis dolorem molestias.",
+            "capacity": 7,
+            "price": "¥9117",
+            "dateStart": "2021-02-09T06:59:19.714Z",
+            "dateEnd": "2021-08-17T04:39:31.808Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 41,
+                "name": "佐賀県"
+            },
+            "features": [
+                "キッチン",
+                "エアコン",
+                "ジム",
+                "プール",
+                "TV",
+                "洗濯機",
+                "乾燥機",
+                "駐車場",
+                "ペットOK",
+                "喫煙OK"
+            ],
+            "rate": 4
+        },
+        {
+            "id": 42,
+            "title": "In autem dolor consequatur error eos.",
+            "capacity": 9,
+            "price": "¥3814",
+            "dateStart": "2021-02-08T17:30:47.712Z",
+            "dateEnd": "2021-11-26T12:08:39.836Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 27,
+                "name": "大阪府"
+            },
+            "features": [
+                "駐車場"
+            ],
+            "rate": 3
+        },
+        {
+            "id": 43,
+            "title": "Fuga a voluptatem voluptatem adipisci quam sunt odio harum quia.",
+            "capacity": 5,
+            "price": "¥8692",
+            "dateStart": "2021-02-08T18:16:03.602Z",
+            "dateEnd": "2021-11-06T00:56:16.235Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 11,
+                "name": "埼玉県"
+            },
+            "features": [
+                "Wi-Fi",
+                "エアコン",
+                "プール",
+                "洗濯機",
+                "乾燥機",
+                "駐車場",
+                "喫煙OK"
+            ],
+            "rate": 0
+        },
+        {
+            "id": 44,
+            "title": "Fugit enim veritatis fuga quia praesentium sequi et deserunt cumque.",
+            "capacity": 3,
+            "price": "¥2056",
+            "dateStart": "2021-02-08T17:38:04.579Z",
+            "dateEnd": "2021-07-05T16:45:24.790Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 4,
+                "name": "宮城県"
+            },
+            "features": [
+                "キッチン",
+                "Wi-Fi",
+                "エアコン",
+                "プール",
+                "TV",
+                "乾燥機",
+                "駐車場",
+                "ペットOK",
+                "喫煙OK"
+            ],
+            "rate": 5
+        },
+        {
+            "id": 45,
+            "title": "Accusamus repellendus aspernatur consectetur error ea.",
+            "capacity": 9,
+            "price": "¥5479",
+            "dateStart": "2021-02-08T16:21:50.173Z",
+            "dateEnd": "2021-04-24T01:03:26.735Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 40,
+                "name": "福岡県"
+            },
+            "features": [
+                "キッチン",
+                "Wi-Fi",
+                "エアコン",
+                "プール",
+                "TV",
+                "洗濯機",
+                "乾燥機",
+                "駐車場",
+                "喫煙OK"
+            ],
+            "rate": 2
+        },
+        {
+            "id": 46,
+            "title": "Nihil delectus ut ut id consequatur aut.",
+            "capacity": 4,
+            "price": "¥7846",
+            "dateStart": "2021-02-09T00:01:00.067Z",
+            "dateEnd": "2022-01-19T20:16:50.693Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 5,
+                "name": "秋田県"
+            },
+            "features": [
+                "キッチン",
+                "ジム",
+                "プール",
+                "TV",
+                "乾燥機",
+                "喫煙OK"
+            ],
+            "rate": 2
+        },
+        {
+            "id": 47,
+            "title": "Sed possimus deleniti.",
+            "capacity": 2,
+            "price": "¥5920",
+            "dateStart": "2021-02-09T01:46:39.472Z",
+            "dateEnd": "2021-10-30T17:03:23.674Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 47,
+                "name": "沖縄県"
+            },
+            "features": [
+                "Wi-Fi",
+                "エアコン",
+                "ジム",
+                "プール",
+                "TV",
+                "洗濯機",
+                "乾燥機",
+                "駐車場",
+                "ペットOK",
+                "喫煙OK"
+            ],
+            "rate": 5
+        },
+        {
+            "id": 48,
+            "title": "Magni odio et.",
+            "capacity": 4,
+            "price": "¥9894",
+            "dateStart": "2021-02-08T15:49:41.520Z",
+            "dateEnd": "2021-03-28T18:52:35.209Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 38,
+                "name": "愛媛県"
+            },
+            "features": [
+                "Wi-Fi",
+                "ジム",
+                "TV",
+                "乾燥機",
+                "駐車場",
+                "喫煙OK"
+            ],
+            "rate": 5
+        },
+        {
+            "id": 49,
+            "title": "Qui ratione nihil at.",
+            "capacity": 0,
+            "price": "¥9115",
+            "dateStart": "2021-02-09T07:47:55.752Z",
+            "dateEnd": "2021-10-31T19:57:04.620Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 26,
+                "name": "京都府"
+            },
+            "features": [
+                "キッチン",
+                "Wi-Fi",
+                "エアコン",
+                "プール",
+                "ペットOK"
+            ],
+            "rate": 2
+        },
+        {
+            "id": 50,
+            "title": "Provident quo enim provident veniam voluptatem accusantium.",
+            "capacity": 10,
+            "price": "¥7185",
+            "dateStart": "2021-02-08T23:29:55.695Z",
+            "dateEnd": "2021-10-16T20:30:04.993Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 13,
+                "name": "東京都"
+            },
+            "features": [
+                "TV",
+                "乾燥機",
+                "駐車場"
+            ],
+            "rate": 0
+        },
+        {
+            "id": 51,
+            "title": "Non nesciunt eaque dolore provident necessitatibus.",
+            "capacity": 9,
+            "price": "¥6258",
+            "dateStart": "2021-02-08T15:03:56.753Z",
+            "dateEnd": "2021-11-21T11:34:09.181Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 31,
+                "name": "鳥取県"
+            },
+            "features": [
+                "キッチン",
+                "Wi-Fi",
+                "エアコン",
+                "ジム",
+                "洗濯機",
+                "乾燥機",
+                "駐車場",
+                "ペットOK",
+                "喫煙OK"
+            ],
+            "rate": 5
+        },
+        {
+            "id": 52,
+            "title": "Ducimus suscipit sint at molestiae eos omnis perspiciatis odit.",
+            "capacity": 10,
+            "price": "¥6083",
+            "dateStart": "2021-02-09T02:20:29.674Z",
+            "dateEnd": "2021-04-29T03:11:29.107Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 35,
+                "name": "山口県"
+            },
+            "features": [
+                "キッチン",
+                "エアコン",
+                "ジム",
+                "プール",
+                "ペットOK",
+                "喫煙OK"
+            ],
+            "rate": 5
+        },
+        {
+            "id": 53,
+            "title": "Velit ab quam et.",
+            "capacity": 1,
+            "price": "¥8492",
+            "dateStart": "2021-02-08T21:13:43.436Z",
+            "dateEnd": "2021-10-28T10:53:11.215Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 37,
+                "name": "香川県"
+            },
+            "features": [
+                "ジム",
+                "TV",
+                "喫煙OK"
+            ],
+            "rate": 2
+        },
+        {
+            "id": 54,
+            "title": "Velit voluptatem et distinctio exercitationem labore rerum.",
+            "capacity": 1,
+            "price": "¥1536",
+            "dateStart": "2021-02-08T20:29:59.148Z",
+            "dateEnd": "2021-10-02T02:46:09.439Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 34,
+                "name": "広島県"
+            },
+            "features": [
+                "キッチン",
+                "Wi-Fi",
+                "エアコン",
+                "プール",
+                "洗濯機",
+                "乾燥機",
+                "喫煙OK"
+            ],
+            "rate": 2
+        },
+        {
+            "id": 55,
+            "title": "Illum vel et a nihil est.",
+            "capacity": 0,
+            "price": "¥5123",
+            "dateStart": "2021-02-09T04:33:36.237Z",
+            "dateEnd": "2021-07-26T09:57:57.162Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 42,
+                "name": "長崎県"
+            },
+            "features": [
+                "ジム",
+                "TV",
+                "洗濯機",
+                "喫煙OK"
+            ],
+            "rate": 1
+        },
+        {
+            "id": 56,
+            "title": "Tempora nulla qui impedit sit praesentium voluptas.",
+            "capacity": 3,
+            "price": "¥7865",
+            "dateStart": "2021-02-08T20:20:02.889Z",
+            "dateEnd": "2021-06-16T15:12:41.520Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 14,
+                "name": "神奈川県"
+            },
+            "features": [
+                "Wi-Fi",
+                "エアコン",
+                "ジム",
+                "駐車場"
+            ],
+            "rate": 3
+        },
+        {
+            "id": 57,
+            "title": "Ratione velit nihil consectetur.",
+            "capacity": 9,
+            "price": "¥2066",
+            "dateStart": "2021-02-08T13:23:18.939Z",
+            "dateEnd": "2021-10-24T17:58:52.428Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 43,
+                "name": "熊本県"
+            },
+            "features": [
+                "エアコン",
+                "プール",
+                "ペットOK"
+            ],
+            "rate": 2
+        },
+        {
+            "id": 58,
+            "title": "Magni totam molestiae omnis placeat.",
+            "capacity": 10,
+            "price": "¥1528",
+            "dateStart": "2021-02-09T02:23:26.705Z",
+            "dateEnd": "2021-03-31T04:41:33.330Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 39,
+                "name": "高知県"
+            },
+            "features": [
+                "キッチン",
+                "プール",
+                "TV",
+                "洗濯機",
+                "ペットOK"
+            ],
+            "rate": 5
+        },
+        {
+            "id": 59,
+            "title": "Aut in vitae nihil natus commodi.",
+            "capacity": 0,
+            "price": "¥9171",
+            "dateStart": "2021-02-08T20:12:18.611Z",
+            "dateEnd": "2021-10-13T02:38:45.445Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 9,
+                "name": "栃木県"
+            },
+            "features": [
+                "乾燥機"
+            ],
+            "rate": 5
+        },
+        {
+            "id": 60,
+            "title": "Cumque aut inventore.",
+            "capacity": 8,
+            "price": "¥4933",
+            "dateStart": "2021-02-08T12:13:34.146Z",
+            "dateEnd": "2021-06-21T08:32:30.951Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 20,
+                "name": "長野県"
+            },
+            "features": [
+                "Wi-Fi",
+                "プール",
+                "洗濯機",
+                "駐車場",
+                "ペットOK",
+                "喫煙OK"
+            ],
+            "rate": 2
+        },
+        {
+            "id": 61,
+            "title": "Quis dolorem dignissimos exercitationem sed pariatur temporibus corporis aliquid.",
+            "capacity": 4,
+            "price": "¥5426",
+            "dateStart": "2021-02-08T10:57:19.402Z",
+            "dateEnd": "2021-06-13T22:04:46.338Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 34,
+                "name": "広島県"
+            },
+            "features": [
+                "キッチン",
+                "Wi-Fi",
+                "エアコン",
+                "ジム",
+                "プール",
+                "TV",
+                "洗濯機",
+                "乾燥機",
+                "駐車場",
+                "ペットOK",
+                "喫煙OK"
+            ],
+            "rate": 4
+        },
+        {
+            "id": 62,
+            "title": "Praesentium quia qui recusandae occaecati mollitia exercitationem.",
+            "capacity": 3,
+            "price": "¥6840",
+            "dateStart": "2021-02-08T11:02:20.268Z",
+            "dateEnd": "2021-05-04T08:09:19.699Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 43,
+                "name": "熊本県"
+            },
+            "features": [
+                "キッチン",
+                "エアコン",
+                "ジム",
+                "プール",
+                "洗濯機",
+                "乾燥機",
+                "駐車場",
+                "ペットOK",
+                "喫煙OK"
+            ],
+            "rate": 0
+        },
+        {
+            "id": 63,
+            "title": "Iure voluptas incidunt et in.",
+            "capacity": 0,
+            "price": "¥4613",
+            "dateStart": "2021-02-09T00:37:41.459Z",
+            "dateEnd": "2021-08-02T15:11:07.935Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 23,
+                "name": "愛知県"
+            },
+            "features": [
+                "TV",
+                "乾燥機"
+            ],
+            "rate": 3
+        },
+        {
+            "id": 64,
+            "title": "Magni est enim facere accusamus fugiat.",
+            "capacity": 7,
+            "price": "¥7516",
+            "dateStart": "2021-02-08T13:52:48.978Z",
+            "dateEnd": "2021-06-12T16:34:38.806Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 11,
+                "name": "埼玉県"
+            },
+            "features": [
+                "キッチン",
+                "Wi-Fi",
+                "エアコン",
+                "ジム",
+                "プール",
+                "TV",
+                "洗濯機",
+                "乾燥機",
+                "ペットOK"
+            ],
+            "rate": 5
+        },
+        {
+            "id": 65,
+            "title": "Sed eaque eum.",
+            "capacity": 8,
+            "price": "¥5380",
+            "dateStart": "2021-02-08T10:33:29.881Z",
+            "dateEnd": "2022-01-09T00:54:17.906Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 4,
+                "name": "宮城県"
+            },
+            "features": [
+                "洗濯機"
+            ],
+            "rate": 5
+        },
+        {
+            "id": 66,
+            "title": "Dolorem aut animi omnis similique consequatur sit autem.",
+            "capacity": 2,
+            "price": "¥5474",
+            "dateStart": "2021-02-08T19:41:51.804Z",
+            "dateEnd": "2022-01-12T13:15:15.925Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 41,
+                "name": "佐賀県"
+            },
+            "features": [
+                "ジム",
+                "プール",
+                "乾燥機",
+                "ペットOK"
+            ],
+            "rate": 4
+        },
+        {
+            "id": 67,
+            "title": "Ratione minus harum qui facere nam optio.",
+            "capacity": 7,
+            "price": "¥7569",
+            "dateStart": "2021-02-08T19:58:53.928Z",
+            "dateEnd": "2021-06-24T06:12:05.466Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 10,
+                "name": "群馬県"
+            },
+            "features": [
+                "プール"
+            ],
+            "rate": 4
+        },
+        {
+            "id": 68,
+            "title": "Voluptas odit natus.",
+            "capacity": 4,
+            "price": "¥6095",
+            "dateStart": "2021-02-09T08:29:33.715Z",
+            "dateEnd": "2021-09-01T21:59:09.714Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 7,
+                "name": "福島県"
+            },
+            "features": [
+                "キッチン",
+                "Wi-Fi",
+                "エアコン",
+                "ジム",
+                "プール",
+                "乾燥機",
+                "駐車場",
+                "ペットOK",
+                "喫煙OK"
+            ],
+            "rate": 3
+        },
+        {
+            "id": 69,
+            "title": "Iure dicta quisquam quae maxime et quam dignissimos.",
+            "capacity": 2,
+            "price": "¥2033",
+            "dateStart": "2021-02-09T02:34:07.117Z",
+            "dateEnd": "2021-07-16T03:10:41.452Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 44,
+                "name": "大分県"
+            },
+            "features": [
+                "Wi-Fi",
+                "乾燥機"
+            ],
+            "rate": 5
+        },
+        {
+            "id": 70,
+            "title": "Enim commodi porro sit aut corporis consequatur aliquid illo.",
+            "capacity": 0,
+            "price": "¥2128",
+            "dateStart": "2021-02-09T07:00:34.465Z",
+            "dateEnd": "2021-11-12T00:55:31.842Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 23,
+                "name": "愛知県"
+            },
+            "features": [
+                "キッチン",
+                "プール",
+                "駐車場"
+            ],
+            "rate": 1
+        },
+        {
+            "id": 71,
+            "title": "Libero harum et.",
+            "capacity": 4,
+            "price": "¥3311",
+            "dateStart": "2021-02-08T10:54:45.468Z",
+            "dateEnd": "2021-07-09T22:57:45.636Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 40,
+                "name": "福岡県"
+            },
+            "features": [
+                "キッチン",
+                "エアコン",
+                "ジム",
+                "TV",
+                "洗濯機",
+                "乾燥機",
+                "駐車場",
+                "ペットOK"
+            ],
+            "rate": 4
+        },
+        {
+            "id": 72,
+            "title": "Corrupti sed ut nulla quis consequatur eligendi.",
+            "capacity": 8,
+            "price": "¥5194",
+            "dateStart": "2021-02-09T04:57:47.007Z",
+            "dateEnd": "2021-05-11T13:36:45.356Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 13,
+                "name": "東京都"
+            },
+            "features": [
+                "エアコン",
+                "プール",
+                "駐車場",
+                "ペットOK"
+            ],
+            "rate": 1
+        },
+        {
+            "id": 73,
+            "title": "Aspernatur sint ducimus.",
+            "capacity": 9,
+            "price": "¥2233",
+            "dateStart": "2021-02-08T18:55:13.633Z",
+            "dateEnd": "2022-01-19T22:10:08.154Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 24,
+                "name": "三重県"
+            },
+            "features": [
+                "乾燥機"
+            ],
+            "rate": 1
+        },
+        {
+            "id": 74,
+            "title": "Assumenda nam error.",
+            "capacity": 2,
+            "price": "¥2911",
+            "dateStart": "2021-02-08T23:39:02.376Z",
+            "dateEnd": "2021-12-17T07:10:35.272Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 38,
+                "name": "愛媛県"
+            },
+            "features": [
+                "キッチン",
+                "Wi-Fi",
+                "エアコン",
+                "ジム",
+                "プール",
+                "洗濯機",
+                "乾燥機",
+                "駐車場",
+                "ペットOK",
+                "喫煙OK"
+            ],
+            "rate": 3
+        },
+        {
+            "id": 75,
+            "title": "Sequi unde quasi.",
+            "capacity": 3,
+            "price": "¥4097",
+            "dateStart": "2021-02-08T15:37:23.718Z",
+            "dateEnd": "2021-08-02T14:10:02.008Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 26,
+                "name": "京都府"
+            },
+            "features": [
+                "キッチン",
+                "Wi-Fi",
+                "エアコン",
+                "ジム",
+                "プール",
+                "TV",
+                "洗濯機",
+                "乾燥機",
+                "駐車場",
+                "ペットOK",
+                "喫煙OK"
+            ],
+            "rate": 0
+        },
+        {
+            "id": 76,
+            "title": "Sed temporibus consectetur labore fuga ratione sed nihil.",
+            "capacity": 8,
+            "price": "¥8344",
+            "dateStart": "2021-02-08T14:40:15.737Z",
+            "dateEnd": "2021-11-25T22:40:45.636Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 29,
+                "name": "奈良県"
+            },
+            "features": [
+                "Wi-Fi",
+                "エアコン",
+                "洗濯機",
+                "乾燥機",
+                "ペットOK"
+            ],
+            "rate": 4
+        },
+        {
+            "id": 77,
+            "title": "Non praesentium laborum minus.",
+            "capacity": 8,
+            "price": "¥8174",
+            "dateStart": "2021-02-08T12:40:52.936Z",
+            "dateEnd": "2021-09-30T18:17:50.382Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 21,
+                "name": "岐阜県"
+            },
+            "features": [
+                "キッチン",
+                "Wi-Fi",
+                "プール",
+                "乾燥機",
+                "駐車場",
+                "ペットOK",
+                "喫煙OK"
+            ],
+            "rate": 3
+        },
+        {
+            "id": 78,
+            "title": "Veniam ex in optio amet facere quo aut.",
+            "capacity": 3,
+            "price": "¥3001",
+            "dateStart": "2021-02-09T05:23:47.689Z",
+            "dateEnd": "2021-12-03T10:28:56.005Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 43,
+                "name": "熊本県"
+            },
+            "features": [
+                "キッチン",
+                "Wi-Fi",
+                "ジム",
+                "プール",
+                "洗濯機",
+                "駐車場",
+                "ペットOK"
+            ],
+            "rate": 0
+        },
+        {
+            "id": 79,
+            "title": "Saepe possimus et expedita neque asperiores.",
+            "capacity": 2,
+            "price": "¥1468",
+            "dateStart": "2021-02-08T20:31:33.830Z",
+            "dateEnd": "2021-10-17T13:30:23.547Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 9,
+                "name": "栃木県"
+            },
+            "features": [
+                "エアコン",
+                "駐車場",
+                "喫煙OK"
+            ],
+            "rate": 4
+        },
+        {
+            "id": 80,
+            "title": "Velit aperiam commodi.",
+            "capacity": 4,
+            "price": "¥6455",
+            "dateStart": "2021-02-09T00:34:41.800Z",
+            "dateEnd": "2021-11-24T16:53:32.613Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 40,
+                "name": "福岡県"
+            },
+            "features": [
+                "キッチン",
+                "ジム",
+                "ペットOK",
+                "喫煙OK"
+            ],
+            "rate": 1
+        },
+        {
+            "id": 81,
+            "title": "Quasi eum dolor sunt illo.",
+            "capacity": 1,
+            "price": "¥9630",
+            "dateStart": "2021-02-09T01:04:36.626Z",
+            "dateEnd": "2021-07-18T14:58:04.148Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 38,
+                "name": "愛媛県"
+            },
+            "features": [
+                "エアコン"
+            ],
+            "rate": 1
+        },
+        {
+            "id": 82,
+            "title": "Commodi omnis aperiam ipsam accusantium omnis quisquam iste deleniti sint.",
+            "capacity": 10,
+            "price": "¥4302",
+            "dateStart": "2021-02-09T06:34:55.586Z",
+            "dateEnd": "2021-07-03T05:32:31.367Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 29,
+                "name": "奈良県"
+            },
+            "features": [
+                "キッチン",
+                "Wi-Fi",
+                "ジム",
+                "洗濯機",
+                "乾燥機",
+                "駐車場",
+                "ペットOK",
+                "喫煙OK"
+            ],
+            "rate": 2
+        },
+        {
+            "id": 83,
+            "title": "Aspernatur deleniti sint cupiditate sit incidunt maiores ex.",
+            "capacity": 5,
+            "price": "¥5411",
+            "dateStart": "2021-02-09T07:04:38.033Z",
+            "dateEnd": "2021-03-31T12:20:34.301Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 24,
+                "name": "三重県"
+            },
+            "features": [
+                "キッチン",
+                "Wi-Fi",
+                "エアコン",
+                "ジム",
+                "プール",
+                "洗濯機",
+                "乾燥機",
+                "駐車場",
+                "喫煙OK"
+            ],
+            "rate": 5
+        },
+        {
+            "id": 84,
+            "title": "Dolorem incidunt totam non quam in voluptatem porro qui.",
+            "capacity": 4,
+            "price": "¥9717",
+            "dateStart": "2021-02-09T05:20:45.749Z",
+            "dateEnd": "2021-11-19T19:00:21.146Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 20,
+                "name": "長野県"
+            },
+            "features": [
+                "キッチン",
+                "Wi-Fi",
+                "エアコン",
+                "ジム",
+                "プール",
+                "TV",
+                "洗濯機",
+                "乾燥機",
+                "ペットOK"
+            ],
+            "rate": 1
+        },
+        {
+            "id": 85,
+            "title": "Dolore eligendi corrupti alias eius voluptatibus fuga.",
+            "capacity": 3,
+            "price": "¥3735",
+            "dateStart": "2021-02-08T16:07:43.918Z",
+            "dateEnd": "2021-03-24T22:13:56.119Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 2,
+                "name": "青森県"
+            },
+            "features": [
+                "キッチン",
+                "エアコン",
+                "ジム",
+                "洗濯機",
+                "乾燥機",
+                "駐車場",
+                "ペットOK",
+                "喫煙OK"
+            ],
+            "rate": 2
+        },
+        {
+            "id": 86,
+            "title": "Est eos nostrum dolorum.",
+            "capacity": 6,
+            "price": "¥8017",
+            "dateStart": "2021-02-08T18:47:47.366Z",
+            "dateEnd": "2021-05-25T11:53:42.911Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 12,
+                "name": "千葉県"
+            },
+            "features": [
+                "エアコン"
+            ],
+            "rate": 2
+        },
+        {
+            "id": 87,
+            "title": "Est aperiam consequatur.",
+            "capacity": 4,
+            "price": "¥4450",
+            "dateStart": "2021-02-09T03:08:49.861Z",
+            "dateEnd": "2021-03-18T10:28:59.167Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 19,
+                "name": "山梨県"
+            },
+            "features": [
+                "キッチン",
+                "Wi-Fi",
+                "エアコン",
+                "ジム",
+                "プール",
+                "TV",
+                "洗濯機",
+                "乾燥機",
+                "駐車場",
+                "ペットOK",
+                "喫煙OK"
+            ],
+            "rate": 3
+        },
+        {
+            "id": 88,
+            "title": "Aut quas in fugiat autem in sint quam quia.",
+            "capacity": 2,
+            "price": "¥6937",
+            "dateStart": "2021-02-09T02:59:57.893Z",
+            "dateEnd": "2021-11-20T16:03:30.174Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 5,
+                "name": "秋田県"
+            },
+            "features": [
+                "ジム",
+                "プール",
+                "TV",
+                "ペットOK"
+            ],
+            "rate": 1
+        },
+        {
+            "id": 89,
+            "title": "Ut eligendi qui aut non minus.",
+            "capacity": 10,
+            "price": "¥6532",
+            "dateStart": "2021-02-09T01:03:06.177Z",
+            "dateEnd": "2022-02-02T08:50:08.920Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 38,
+                "name": "愛媛県"
+            },
+            "features": [
+                "キッチン",
+                "Wi-Fi",
+                "エアコン",
+                "洗濯機",
+                "乾燥機",
+                "駐車場",
+                "ペットOK"
+            ],
+            "rate": 0
+        },
+        {
+            "id": 90,
+            "title": "Incidunt quos tenetur ut.",
+            "capacity": 5,
+            "price": "¥2200",
+            "dateStart": "2021-02-09T04:44:45.036Z",
+            "dateEnd": "2021-12-31T04:36:05.388Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 34,
+                "name": "広島県"
+            },
+            "features": [
+                "キッチン",
+                "Wi-Fi",
+                "エアコン",
+                "ジム",
+                "TV",
+                "洗濯機",
+                "駐車場",
+                "喫煙OK"
+            ],
+            "rate": 4
+        },
+        {
+            "id": 91,
+            "title": "Voluptates quia aut ut.",
+            "capacity": 10,
+            "price": "¥1373",
+            "dateStart": "2021-02-09T09:21:37.491Z",
+            "dateEnd": "2021-07-26T22:28:52.479Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 1,
+                "name": "北海道"
+            },
+            "features": [
+                "エアコン",
+                "TV"
+            ],
+            "rate": 2
+        },
+        {
+            "id": 92,
+            "title": "Aut deserunt unde iure fugiat eveniet.",
+            "capacity": 7,
+            "price": "¥9931",
+            "dateStart": "2021-02-08T19:11:23.803Z",
+            "dateEnd": "2021-07-05T18:58:46.033Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 34,
+                "name": "広島県"
+            },
+            "features": [
+                "キッチン",
+                "Wi-Fi",
+                "エアコン",
+                "ジム",
+                "TV",
+                "洗濯機",
+                "乾燥機",
+                "ペットOK"
+            ],
+            "rate": 4
+        },
+        {
+            "id": 93,
+            "title": "Rerum accusamus distinctio omnis eligendi.",
+            "capacity": 8,
+            "price": "¥9270",
+            "dateStart": "2021-02-08T23:51:23.405Z",
+            "dateEnd": "2022-02-05T01:10:43.477Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 35,
+                "name": "山口県"
+            },
+            "features": [
+                "Wi-Fi",
+                "エアコン",
+                "ジム",
+                "洗濯機",
+                "乾燥機",
+                "ペットOK",
+                "喫煙OK"
+            ],
+            "rate": 1
+        },
+        {
+            "id": 94,
+            "title": "Accusamus reprehenderit rem corporis nobis dolorem quis possimus autem iure.",
+            "capacity": 1,
+            "price": "¥7991",
+            "dateStart": "2021-02-08T20:45:35.850Z",
+            "dateEnd": "2021-02-08T22:47:13.348Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 15,
+                "name": "新潟県"
+            },
+            "features": [
+                "Wi-Fi",
+                "乾燥機",
+                "駐車場",
+                "ペットOK",
+                "喫煙OK"
+            ],
+            "rate": 0
+        },
+        {
+            "id": 95,
+            "title": "Similique a dolorem iste.",
+            "capacity": 10,
+            "price": "¥8917",
+            "dateStart": "2021-02-09T00:45:03.821Z",
+            "dateEnd": "2021-10-01T04:35:59.628Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 9,
+                "name": "栃木県"
+            },
+            "features": [
+                "エアコン",
+                "プール",
+                "ペットOK",
+                "喫煙OK"
+            ],
+            "rate": 0
+        },
+        {
+            "id": 96,
+            "title": "Odit incidunt officia necessitatibus consequatur aspernatur sint.",
+            "capacity": 2,
+            "price": "¥3044",
+            "dateStart": "2021-02-09T05:02:45.294Z",
+            "dateEnd": "2021-03-24T09:58:14.798Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 12,
+                "name": "千葉県"
+            },
+            "features": [
+                "Wi-Fi",
+                "TV"
+            ],
+            "rate": 2
+        },
+        {
+            "id": 97,
+            "title": "Qui ut qui optio consequatur harum mollitia minus.",
+            "capacity": 7,
+            "price": "¥2578",
+            "dateStart": "2021-02-08T22:45:36.033Z",
+            "dateEnd": "2021-08-08T14:47:55.559Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 15,
+                "name": "新潟県"
+            },
+            "features": [
+                "Wi-Fi",
+                "プール",
+                "TV",
+                "喫煙OK"
+            ],
+            "rate": 3
+        },
+        {
+            "id": 98,
+            "title": "Laboriosam temporibus vitae.",
+            "capacity": 8,
+            "price": "¥4322",
+            "dateStart": "2021-02-09T02:04:37.402Z",
+            "dateEnd": "2021-05-15T14:42:38.920Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 5,
+                "name": "秋田県"
+            },
+            "features": [
+                "キッチン",
+                "Wi-Fi",
+                "プール",
+                "乾燥機",
+                "ペットOK"
+            ],
+            "rate": 4
+        },
+        {
+            "id": 99,
+            "title": "Earum molestias delectus ut distinctio soluta molestiae quos accusamus suscipit.",
+            "capacity": 9,
+            "price": "¥4331",
+            "dateStart": "2021-02-09T06:29:49.778Z",
+            "dateEnd": "2022-01-26T17:04:14.148Z",
+            "country": "日本",
+            "prefecture": {
+                "id": 47,
+                "name": "沖縄県"
+            },
+            "features": [
+                "キッチン",
+                "Wi-Fi",
+                "ジム",
+                "プール",
+                "TV",
+                "洗濯機",
+                "乾燥機",
+                "駐車場",
+                "ペットOK",
+                "喫煙OK"
+            ],
+            "rate": 3
+        }
+    ],
+    "prefectures": [
+        {
+            "id": 1,
+            "name": "北海道"
+        },
+        {
+            "id": 2,
+            "name": "青森県"
+        },
+        {
+            "id": 3,
+            "name": "岩手県"
+        },
+        {
+            "id": 4,
+            "name": "宮城県"
+        },
+        {
+            "id": 5,
+            "name": "秋田県"
+        },
+        {
+            "id": 6,
+            "name": "山形県"
+        },
+        {
+            "id": 7,
+            "name": "福島県"
+        },
+        {
+            "id": 8,
+            "name": "茨城県"
+        },
+        {
+            "id": 9,
+            "name": "栃木県"
+        },
+        {
+            "id": 10,
+            "name": "群馬県"
+        },
+        {
+            "id": 11,
+            "name": "埼玉県"
+        },
+        {
+            "id": 12,
+            "name": "千葉県"
+        },
+        {
+            "id": 13,
+            "name": "東京都"
+        },
+        {
+            "id": 14,
+            "name": "神奈川県"
+        },
+        {
+            "id": 15,
+            "name": "新潟県"
+        },
+        {
+            "id": 16,
+            "name": "富山県"
+        },
+        {
+            "id": 17,
+            "name": "石川県"
+        },
+        {
+            "id": 18,
+            "name": "福井県"
+        },
+        {
+            "id": 19,
+            "name": "山梨県"
+        },
+        {
+            "id": 20,
+            "name": "長野県"
+        },
+        {
+            "id": 21,
+            "name": "岐阜県"
+        },
+        {
+            "id": 22,
+            "name": "静岡県"
+        },
+        {
+            "id": 23,
+            "name": "愛知県"
+        },
+        {
+            "id": 24,
+            "name": "三重県"
+        },
+        {
+            "id": 25,
+            "name": "滋賀県"
+        },
+        {
+            "id": 26,
+            "name": "京都府"
+        },
+        {
+            "id": 27,
+            "name": "大阪府"
+        },
+        {
+            "id": 28,
+            "name": "兵庫県"
+        },
+        {
+            "id": 29,
+            "name": "奈良県"
+        },
+        {
+            "id": 30,
+            "name": "和歌山県"
+        },
+        {
+            "id": 31,
+            "name": "鳥取県"
+        },
+        {
+            "id": 32,
+            "name": "島根県"
+        },
+        {
+            "id": 33,
+            "name": "岡山県"
+        },
+        {
+            "id": 34,
+            "name": "広島県"
+        },
+        {
+            "id": 35,
+            "name": "山口県"
+        },
+        {
+            "id": 36,
+            "name": "徳島県"
+        },
+        {
+            "id": 37,
+            "name": "香川県"
+        },
+        {
+            "id": 38,
+            "name": "愛媛県"
+        },
+        {
+            "id": 39,
+            "name": "高知県"
+        },
+        {
+            "id": 40,
+            "name": "福岡県"
+        },
+        {
+            "id": 41,
+            "name": "佐賀県"
+        },
+        {
+            "id": 42,
+            "name": "長崎県"
+        },
+        {
+            "id": 43,
+            "name": "熊本県"
+        },
+        {
+            "id": 44,
+            "name": "大分県"
+        },
+        {
+            "id": 45,
+            "name": "宮崎県"
+        },
+        {
+            "id": 46,
+            "name": "鹿児島県"
+        },
+        {
+            "id": 47,
+            "name": "沖縄県"
+        }
+    ]
+}

@@ -7,7 +7,9 @@
     "build": "next build",
     "start": "next start",
     "tsc": "tsc",
-    "lint": "eslint \"./src/**/{*.ts,*.tsx}\""
+    "lint": "eslint \"./src/**/{*.ts,*.tsx}\"",
+    "generate-mock": "ts-node scripts/generate-mock.ts > db.json",
+    "json-server": "json-server --watch db.json"
   },
   "dependencies": {
     "next": "10.0.4",
@@ -15,6 +17,7 @@
     "react-dom": "17.0.1"
   },
   "devDependencies": {
+    "@types/faker": "5.1.6",
     "@types/node": "14.14.22",
     "@types/react": "17.0.0",
     "@typescript-eslint/eslint-plugin": "^4.14.0",
@@ -22,7 +25,10 @@
     "eslint": "7.18.0",
     "eslint-config-prettier": "7.2.0",
     "eslint-plugin-react": "^7.22.0",
+    "faker": "5.3.1",
+    "json-server": "0.16.3",
     "prettier": "2.2.1",
+    "ts-node": "9.1.1",
     "typescript": "4.1.3"
   }
 }
